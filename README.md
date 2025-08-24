@@ -1,13 +1,13 @@
 # better-shell-utils
 
-Utility moderne per sostituire comandi Bash in Node.js, con gestione errori, async/await e supporto CLI.
+Modern utilities to substitute Bash shell script commands using Node.js; errors management, async/await, and a mini CLI.
 
 ## ✅ Caratteristiche
-- Comandi FS comuni (mkdir, rm, cp, mv, cat) in versione async/await
-- Gestione errori robusta e logging chiaro
-- Esecuzione sicura di comandi shell (execa)
-- Opzione dry-run per test
-- CLI integrata
+- FS common commands (mkdir, rm, cp, mv, cat) in async/await version
+- Robust errors managment and clear logging
+- Secur shell commands execution (execa)
+- `Dry-run` option for tests
+- Integrated CLI
 
 ## 🚀 Installazione
 ```bash
