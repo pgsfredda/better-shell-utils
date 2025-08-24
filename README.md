@@ -2,6 +2,8 @@
 
 Modern utilities to substitute Bash shell script commands using Node.js; errors management, async/await, and a mini CLI.
 
+First skeleton version
+
 ## ✅ Features
 - FS common commands (mkdir, rm, cp, mv, cat) in async/await version
 - Robust errors managment and clear logging
